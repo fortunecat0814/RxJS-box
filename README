@@ -1,4 +1,8 @@
-1. npm install
-2. npm install -g live-server
-3. ./node_modules/.bin/webpack -w
-4. npm run start
+RxJs Box
+------------
+构建rxjs程序
+
+npm install
+npm install -g live-server
+./node_modules/.bin/webpack -w
+npm run start
