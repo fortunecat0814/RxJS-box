@@ -16,7 +16,8 @@ module.exports = {
     // },
     entry: getEntry(),
     output: {
-        path: path.resolve(__dirname, 'dist'),
+        // path: path.resolve(__dirname, 'dist'),
+        path: path.join(__dirname, './dist'),
         filename: '[name].bundle.js'
     },
     module: {
